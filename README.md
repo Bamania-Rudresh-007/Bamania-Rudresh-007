@@ -6,6 +6,7 @@
 ## 🚀 Skills
 - HTML, CSS, JavaScript
 - React.js (Learning)
+- Tailwind CSS
 - Node.js, MongoDB (Basics)
 - Git & GitHub
 - Python, Java
