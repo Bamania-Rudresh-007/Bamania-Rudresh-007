@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Rudresh
 
-<!--
-**Bamania-Rudresh-007/Bamania-Rudresh-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Diploma Student  
+💻 Aspiring Full-Stack Web Developer (MERN Stack)
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- React.js (Learning)
+- Node.js, MongoDB (Basics)
+- Git & GitHub
+- C (DSA Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- 🎬 Netflix Homepage Clone (HTML & CSS)
+- 🎯 Number Guessing Game (JavaScript)
+
+## 🌱 Currently Learning
+- React.js
+- Backend Development
+- Data Structures & Algorithms in C
+
+## 📫 Connect with me
+- LinkedIn: [your-link-here]
