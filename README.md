@@ -1,31 +1,52 @@
-# Hi 👋 I'm Rudresh
+# Hi 👋 I'm Rudresh Bamania
 
 🎓 Computer Engineering Diploma Student  
 💻 Aspiring Full-Stack Web Developer (MERN Stack)
 
+---
+
 ## 🚀 Skills
 - HTML, CSS, JavaScript
-- React.js (Learning)
 - Tailwind CSS
-- Node.js, MongoDB (Basics)
+- React.js (Learning)
+- Node.js & MongoDB (Basics)
 - Git & GitHub
 - Python, Java
-- C (DSA Intermediat)
+- C (DSA – Intermediate)
 
+---
 
 ## 🛠️ Projects
-- 🎬 Netflix Homepage Clone (HTML & CSS)
-- 🎯 Number Guessing Game (JavaScript)
-- ✅ Todo list app (JavaScript)
-- 🌏 Country Explorer Rest-Api (JavaScript)
-- ♬♪ Basic Spotify Cloan (JavaScript)
-- ⏳Queue Management System (React)
-  
+- 🎬 **Netflix Homepage Clone**  
+  *HTML & CSS*
+
+- 🎯 **Number Guessing Game**  
+  *JavaScript*
+
+- ✅ **Todo List App**  
+  *JavaScript*
+
+- 🌏 **Country Explorer (REST API Project)**  
+  *JavaScript*
+
+- 🎵 **Basic Spotify Clone**  
+  *JavaScript*
+
+- ⏳ **Queue Management System**  
+  *React.js*
+
+---
 
 ## 🌱 Currently Learning
-- React.js
+- React.js (Hooks, State Management)
 - Backend Development
 - Data Structures & Algorithms in Java
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/rudresh-bamania-969939362/
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: [Rudresh Bamania](https://www.linkedin.com/in/rudresh-bamania-969939362/)
+
+---
+
+⭐ *Consistently learning, building projects, and improving every day*
