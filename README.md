@@ -8,7 +8,7 @@
 ## 🚀 Skills
 - HTML, CSS, JavaScript
 - Tailwind CSS
-- React.js (Learning)
+- React.js
 - Node.js & MongoDB (Basics)
 - Git & GitHub
 - Python, Java
@@ -38,7 +38,6 @@
 ---
 
 ## 🌱 Currently Learning
-- React.js (Hooks, State Management)
 - Backend Development
 - Data Structures & Algorithms in Java
 
