@@ -35,6 +35,10 @@
 - ⏳ **Queue Management System**  
   *React.js*
 
+- 👨‍🎓**Student Management System**
+  *React.js*
+- 🌏 **Country Explorer Using REACT(REST API Project)**
+  *React.js*
 ---
 
 ## 🌱 Currently Learning
