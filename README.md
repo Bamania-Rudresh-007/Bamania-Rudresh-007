@@ -1,14 +1,14 @@
 # Hi 👋 I'm Rudresh Bamania
 
 🎓 Computer Engineering Diploma Student  
-💻 Aspiring Full-Stack Web Developer (MERN Stack)
+💻 Full-Stack MERN Developer  
 
-I enjoy building web applications and exploring how real-world software works.  
-Currently focused on improving my backend development skills and strengthening my problem-solving ability with Data Structures & Algorithms.
+I build full-stack web applications using the MERN stack and enjoy solving real-world problems through code.  
+Focused on writing clean, scalable code and continuously improving my development and problem-solving skills.
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
 **Frontend**
 - HTML
@@ -17,7 +17,7 @@ Currently focused on improving my backend development skills and strengthening m
 - Tailwind CSS
 - React.js
 
-**Backend (Basics)**
+**Backend**
 - Node.js
 - Express.js
 - MongoDB
@@ -27,67 +27,68 @@ Currently focused on improving my backend development skills and strengthening m
 - Java
 - Python
 
-**Tools**
+**Tools & Technologies**
 - Git
 - GitHub
 - Postman
+- REST APIs
 
 ---
 
 ## 🛠️ Projects
 
-### 🎬 Netflix Homepage Clone
-**Tech Stack:** HTML, CSS  
-Recreated the Netflix landing page UI to practice responsive layouts and modern styling.
+### 👨‍🎓 Student Management System (Full-Stack)
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+A full-stack web application with authentication and protected routes to manage student data (add, delete, update). Demonstrates complete MERN workflow.
 
 ---
 
-### 🎯 Number Guessing Game
-**Tech Stack:** JavaScript  
-A browser-based game where users guess a randomly generated number, focusing on logic building and DOM manipulation.
-
----
-
-### ✅ Todo List App
-**Tech Stack:** JavaScript  
-A simple productivity application allowing users to add, delete, and manage daily tasks.
-
----
-
-### 🌍 Country Explorer (REST API)
-**Tech Stack:** JavaScript, REST API  
-Fetches country data from an external API and allows users to search and explore information about different countries.
-
----
-
-### 🎵 Basic Spotify Clone
-**Tech Stack:** JavaScript, HTML, CSS  
-A music player interface inspired by Spotify to practice UI structure and JavaScript interactions.
+### 🌍 Country Explorer (React + REST API)
+**Tech Stack:** React.js, REST API  
+Fetches and displays country data with search and filtering features using modern React concepts.
 
 ---
 
 ### ⏳ Queue Management System
 **Tech Stack:** React.js  
-A React-based system designed to simulate queue handling and management with component-based architecture.
+Simulates real-world queue handling using component-based architecture and state management.
 
 ---
 
-### 👨‍🎓 Student Management System
-**Tech Stack:** React.js  
-A web application to manage student data using React components and structured state handling.
+### 🎵 Basic Spotify Clone
+**Tech Stack:** HTML, CSS, JavaScript  
+A music player UI inspired by Spotify focusing on layout design and interactive elements.
 
 ---
 
-### 🌏 Country Explorer (React Version)
-**Tech Stack:** React.js, REST API  
-A React implementation of the Country Explorer project with improved component structure and state management.
+### 🌍 Country Explorer (JavaScript)
+**Tech Stack:** JavaScript, REST API  
+API-based project to explore country data and strengthen async JavaScript concepts.
 
 ---
 
-## 🌱 Currently Learning
-- Backend Development (Node.js, Express.js, MongoDB)
+### ✅ Todo List App
+**Tech Stack:** JavaScript  
+Task management app with add/delete functionality and DOM manipulation.
+
+---
+
+### 🎯 Number Guessing Game
+**Tech Stack:** JavaScript  
+Logic-based game focused on conditions, loops, and user interaction.
+
+---
+
+### 🎬 Netflix Homepage Clone
+**Tech Stack:** HTML, CSS  
+Responsive UI clone built to practice layout design and styling.
+
+---
+
+## 🌱 Currently Improving
+- Advanced Backend Development (Authentication, APIs)
 - Data Structures & Algorithms in Java
-- Building Full-Stack MERN Applications
+- Building Scalable MERN Applications
 
 ---
 
@@ -97,4 +98,4 @@ https://www.linkedin.com/in/rudresh-bamania-969939362/
 
 ---
 
-⭐ Consistently learning, building projects, and improving every day.
+⭐ Consistently building, learning, and growing as a developer.
