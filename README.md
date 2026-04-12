@@ -90,9 +90,9 @@ Responsive UI clone built to practice layout design and styling.
 
 ---
 
-## 🌱 Currently Improving
+## 🌱 Currently Learning
 - Typescript
-- Advanced Backend Development (System design fundamentals, Scalable websites)
+- Advanced Backend Development (System design fundamentals)
 - Data Structures & Algorithms in Java
 - Building Scalable MERN Applications
 
