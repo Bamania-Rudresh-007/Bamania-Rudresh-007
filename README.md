@@ -42,6 +42,11 @@ Focused on writing clean, scalable code and continuously improving my developmen
 A full-stack web application with authentication and protected routes to manage student data (add, delete, update). Demonstrates complete MERN workflow.
 
 ---
+### 📝 Task Manager App (Full-Stack)
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+A full-stack web application with authentication and protected routes to manage tasks (create, update, delete). Includes task status handling (pending/completed) and demonstrates complete MERN workflow.
+
+---
 
 ### 🌍 Country Explorer (React + REST API)
 **Tech Stack:** React.js, REST API  
