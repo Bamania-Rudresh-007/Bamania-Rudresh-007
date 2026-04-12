@@ -91,7 +91,8 @@ Responsive UI clone built to practice layout design and styling.
 ---
 
 ## 🌱 Currently Improving
-- Advanced Backend Development (Authentication, APIs)
+- Typescript
+- Advanced Backend Development (System design fundamentals, Scalable websites)
 - Data Structures & Algorithms in Java
 - Building Scalable MERN Applications
 
