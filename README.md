@@ -1,11 +1,11 @@
 # Hi 👋 I'm Rudresh Bamania
 
-🎓 Computer Engineering Diploma Student
-💻 Full-Stack MERN Developer
+🎓 **Computer Engineering Diploma Student**
+💻 **Full-Stack Web Developer**
 
-I build full-stack web applications using modern web technologies and enjoy turning real-world problems into practical software solutions.
+I build full-stack web applications using **React.js, Node.js, Express.js, and MongoDB**, with a focus on authentication, REST APIs, data management, and responsive user interfaces.
 
-Currently focused on strengthening my backend development, TypeScript, and system design fundamentals while exploring **Next.js** and building scalable web applications.
+Currently expanding my expertise in **TypeScript and Next.js**, while strengthening my **backend development, Data Structures & Algorithms, and system design fundamentals**.
 
 ---
 
@@ -13,20 +13,27 @@ Currently focused on strengthening my backend development, TypeScript, and syste
 
 ### Frontend
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * TypeScript
 * React.js
 * Tailwind CSS
+* React Router
 
 ### Backend
 
 * Node.js
 * Express.js
-* MongoDB
 * REST APIs
 * JWT Authentication
+* bcrypt
+
+### Database
+
+* MongoDB
+* Mongoose
+* MongoDB Atlas
 
 ### Programming Languages
 
@@ -36,37 +43,42 @@ Currently focused on strengthening my backend development, TypeScript, and syste
 * Python
 * C
 
-### Tools & Technologies
+### Tools & Deployment
 
 * Git
 * GitHub
 * Postman
 * Vite
 * Axios
+* Vercel
+* Render
 
 ---
 
 ## 🛠️ Featured Projects
 
-### 🏥 Appointment Management System — Full-Stack
+### 🏥 Doctor Appointment Booking System
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
 
-A full-stack appointment management platform designed to handle appointment bookings and administrative operations.
+A full-stack appointment management platform for managing doctor appointments, appointment history, status updates, and earnings.
 
 **Key Features:**
 
-* User/Admin authentication
-* Appointment booking and management
-* Admin management
-* Appointment status handling
-* Protected API routes
-* JWT-based authentication
+* Secure doctor authentication using JWT and bcrypt
+* Appointment management and status updates
+* Appointment filtering and history
+* Doctor earnings tracking
+* Protected dashboard routes
 * RESTful backend APIs
+* Responsive React interface
+
+🔗 **[Live Demo](https://doctor-appointment-booking-system-puce-omega.vercel.app/)**
+🔗 **[GitHub](https://github.com/Bamania-Rudresh-007/doctor-appointment-booking-system)**
 
 ---
 
-### 👨‍🎓 Student Management System — Full-Stack
+### 👨‍🎓 Student Management System
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
@@ -78,86 +90,98 @@ A full-stack student management application for managing student records through
 * Protected routes
 * Student CRUD operations
 * RESTful APIs
-* MongoDB database integration
-* Responsive React interface
+* MongoDB integration
+* React Context API
+* Custom hooks
+* Responsive UI
 * Light/Dark theme
+
+🔗 **[Live Demo](https://full-stack-sms-project.vercel.app/)**
+🔗 **[GitHub](https://github.com/Bamania-Rudresh-007/full-stack-sms-project)**
 
 ---
 
-### 📝 Task Manager — Full-Stack
+### 📝 Full-Stack Task Manager
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-A full-stack task management application designed to organize and track daily tasks.
+A full-stack task management application focused on secure authentication, private user data, and task management.
 
 **Key Features:**
 
-* User authentication
-* Protected routes
-* Create, update and delete tasks
-* Pending/Completed task status
-* RESTful APIs
-* MongoDB data persistence
+* JWT authentication
+* Protected frontend and backend routes
+* User-specific data isolation
+* Complete task CRUD operations
+* Task status filtering
+* MVC backend architecture
+* Global error handling
+* MongoDB Atlas persistence
+
+🔗 **[Live Demo](https://full-stack-task-manager-beige.vercel.app/)**
+🔗 **[GitHub](https://github.com/Bamania-Rudresh-007/full-stack-task-manager)**
 
 ---
 
-## 🌐 Other Projects
+## 🌍 Other Projects
 
-### 🌍 Country Explorer
+### Country Explorer
 
 **Tech Stack:** React.js, REST API
 
-A React application that fetches and displays country information through an external REST API with search and filtering functionality.
+A React application that fetches country information from an external REST API with search and region-based filtering.
 
 ### ⏳ Queue Management System
 
 **Tech Stack:** React.js
 
-A React-based application designed to simulate and manage real-world queues using component-based architecture and state management.
+A React-based queue management application built with component-based architecture and state management.
 
----
+### 🎵 Spotify UI Clone
 
-## 📚 Earlier Projects
+**Tech Stack:** HTML, CSS, JavaScript
 
-* 🎵 Spotify UI Clone — HTML, CSS, JavaScript
-* 🎬 Netflix Homepage Clone — HTML, CSS
-* 🌍 Country Explorer — JavaScript, REST API
-* ✅ Todo List App — JavaScript
-* 🎯 Number Guessing Game — JavaScript
+### 🎬 Netflix Homepage Clone
+
+**Tech Stack:** HTML, CSS
+
+### ✅ Todo List
+
+**Tech Stack:** JavaScript
+
+### 🎯 Number Guessing Game
+
+**Tech Stack:** JavaScript
 
 ---
 
 ## 🌱 Currently Learning
 
-* Next.js
 * TypeScript
+* Next.js
 * Advanced Backend Development
-* System Design Fundamentals
 * Data Structures & Algorithms in Java
+* System Design Fundamentals
 * Scalable Web Application Architecture
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-Full-Stack Development
-        ↓
-TypeScript
-        ↓
-Next.js
-        ↓
-Advanced Backend Development
-        ↓
-System Design & DSA
-```
+I'm currently focused on becoming a stronger full-stack developer by improving:
+
+**Full-Stack Development → TypeScript → Next.js → Advanced Backend → DSA → System Design**
+
+---
+
+## 📊 GitHub Activity
+
+I continuously work on projects, learn new technologies, and improve my existing applications.
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: [Rudresh Bamania](https://www.linkedin.com/in/rudresh-bamania-969939362/)
+💼 **LinkedIn:** [Rudresh Bamania](https://www.linkedin.com/in/rudresh-bamania-969939362/)
 
----
-
-⭐ Building. Learning. Improving.
+⭐ **Building. Learning. Improving.**
