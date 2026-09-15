@@ -37,11 +37,10 @@ Currently expanding my expertise in **TypeScript and Next.js**, while strengthen
 
 ### Programming Languages
 
-* Java
 * JavaScript
 * TypeScript
-* Python
-* C
+* Java
+* c
 
 ### Tools & Deployment
 
@@ -160,7 +159,7 @@ A React-based queue management application built with component-based architectu
 * TypeScript
 * Next.js
 * Advanced Backend Development
-* Data Structures & Algorithms in Java
+* Data Structures & Algorithms in Java Script
 * System Design Fundamentals
 * Scalable Web Application Architecture
 
